@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+
+# Graphs (everything under graphs/, plus plot files elsewhere)
+graphs/old
+data/extended_csv
+data/in_csv
+tmp/
+# CSV data
+*.csv
